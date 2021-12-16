@@ -2,7 +2,14 @@
   {
     "name": "Babel",
     "ring": "adopt",
-    "quadrant": "toolsmart",
+    "quadrant": "Newtype",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Babel",
+    "ring": "adopts",
+    "quadrant": "New2type",
     "isNew": "TRUE",
     "description": "test"
   },
