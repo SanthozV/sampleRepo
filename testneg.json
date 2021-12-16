@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Babel",
+    "ring": "adopt",
+    "quadrant": "toolsmart",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+   {
+    "name": "Babel",
+    "ring": "adopts",
+    "quadrant": "2smart",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Apache Kafka",
+    "ring": "trials",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Android-x86",
+    "ring": "asses/s",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "GrapCloud lift and shifthQL",
+    "ring": "hold",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "test"
+  }
+]
